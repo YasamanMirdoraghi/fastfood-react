@@ -1,0 +1,13 @@
+header {
+    height: 200px;
+    background: url('../assets/img/header-background.75e1292fc1693fc8838e.jpg');
+    letter-spacing: 3px;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    background: -webkit-linear-gradient(#009cff, #7b2bbd);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+}

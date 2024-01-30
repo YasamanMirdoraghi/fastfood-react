@@ -1,0 +1,9 @@
+
+.wrapper{
+  min-height: 100vh;
+}
+
+.nav-link {
+  color: black !important;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;;
+}
